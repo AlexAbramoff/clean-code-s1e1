@@ -34,14 +34,14 @@ body {
   display: inline-block;
   flex-grow: 1;
 }
-.task-row-wrapper {
+.new-task__row-wrapper {
   display: flex;
 }
 .tasks__list {
   margin: 0;
   padding: 0px;
 }
-.task__item {
+li {
   list-style: none;
 }
 .input,
