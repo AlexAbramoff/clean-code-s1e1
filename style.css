@@ -143,15 +143,15 @@ body {
 }
 
 /* Edit Task */
-.task__list .task__item .input.task {
+.task__item .input.task {
   display: none;
 }
 
-.task__list .task__item.editMode .input.task {
+.task__item.editMode .input.task {
   display: inline-block;
   width: 224px;
 }
 
-.task__list .task__item.editMode .task__name {
+.task__item.editMode .task__name {
   display: none;
 }
